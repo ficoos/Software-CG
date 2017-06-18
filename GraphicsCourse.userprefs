@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x64" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="3DViewer/Viewer.cs">
+    <Files>
+      <File FileName="3DViewer/Model.cs" Line="31" Column="31" />
+      <File FileName="3DViewer/Vector3D.cs" Line="8" Column="8" />
+      <File FileName="3DViewer/Viewer.cs" Line="13" Column="13" />
+      <File FileName="3DViewer/Matrix.cs" Line="1" Column="1" />
+      <File FileName="SDLForms/Window.cs" Line="1" Column="1" />
+      <File FileName="SDLForms/Application.cs" Line="1" Column="1" />
+      <File FileName="SDLForms/Renderer.cs" Line="1" Column="1" />
+      <File FileName="SDLForms/Surface.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
