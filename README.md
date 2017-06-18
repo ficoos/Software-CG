@@ -10,10 +10,10 @@ Full software imlpementation of line drawing and polygon filling
 
 How to use:
 ===========
-ESC - Clear
-Left Click - Add point to current polygon
-Right Click - Add final point to polygon
-A - Change line drawing algorithm
+- ESC - Clear
+- Left Click - Add point to current polygon
+- Right Click - Add final point to polygon
+- A - Change line drawing algorithm
 
 # 3D Viewer
 
@@ -30,16 +30,16 @@ Patches for texturing are more than welcome.
 
 How to use:
 ===========
-Left Click + Drag - Translate X Y
-Right Click + Drag - Rotate X Y
-Mouse Wheel - Translate Z
-[ - Scale x0.2
-] - Scale x1.2
-R - Reset transformation
-W - Toggle wireframe
-F - Toggle Fill
-P - Change projection (current projection is displayed in the title)
-M - Change Model (current model is displayed in the title)
+- Left Click + Drag - Translate X Y
+- Right Click + Drag - Rotate X Y
+- Mouse Wheel - Translate Z
+- [ - Scale x0.2
+- ] - Scale x1.2
+- R - Reset transformation
+- W - Toggle wireframe
+- F - Toggle Fill
+- P - Change projection (current projection is displayed in the title)
+- M - Change Model (current model is displayed in the title)
 
 The White light is fixed at (0, 0, -150)
 The blue light followes the mouse.
